@@ -36,8 +36,17 @@ button:focus, button:active {
 * ==========================================
 *
 */
+
+.logo img {
+  padding: 0;
+  margin: 0;
+  max-height: 50px;
+  vertical-align: middle;
+  border-style: none
+}
+
 .copyright {
-  background-color: lightgreen;
+  background-color: #fff;
 }
 
 .navbar {
@@ -1461,7 +1470,7 @@ STYLE SWITCHER FOR DEMO
  */
 .navbar {
   padding: 0.5rem 1rem;
-  background-color: lightgreen;
+  background-color: #fff;
 }
 
 .navbar-brand {
@@ -2565,7 +2574,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: lightgreen !important;
+  background-color: #fff !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
