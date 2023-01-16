@@ -1,7 +1,7 @@
 # SSebowa Simple E-Commerce Website with Payment
 This is a Ssebowa e-commerce website built with Django (Python) and PayPal is added as payment processor.
 
-I've made this as a "Jewelry Shop" website but you can make any website you like.
+I've made this as a "ssebowa store" website but you can make any website you like.
 
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
